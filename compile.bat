@@ -1,0 +1,1 @@
+gcc main.c -e _entry_point -o nomore.exe
